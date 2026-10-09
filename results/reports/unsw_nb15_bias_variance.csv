@@ -1,0 +1,6 @@
+Model,Train acc,Val acc,Test acc,Train-Val gap,Val-Test gap
+Logistic-like shallow tree (depth 2),92.01,92.13,76.55,-0.13,15.58
+Random Forest,99.34,96.18,87.33,3.16,8.86
+Extra Trees,98.98,96.22,86.58,2.76,9.63
+XGBoost,98.5,96.38,87.16,2.12,9.22
+LightGBM,98.75,96.39,87.32,2.36,9.07

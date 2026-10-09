@@ -39,3 +39,6 @@ data/subset/
 *.gz
 *.tar.gz
 *.zip
+
+# Downloaded benchmark datasets (fetch with: python src/download_datasets.py)
+data/external/

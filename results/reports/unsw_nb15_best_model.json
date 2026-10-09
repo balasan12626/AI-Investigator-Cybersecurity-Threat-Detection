@@ -1,0 +1,14 @@
+{
+  "Model": "LightGBM",
+  "Threshold": 0.495,
+  "Accuracy (%)": 87.49,
+  "Precision (%)": 82.35,
+  "Recall (%)": 98.38,
+  "F1 (%)": 89.65,
+  "ROC_AUC": 0.9846,
+  "TP": 44596,
+  "TN": 27439,
+  "FP": 9561,
+  "FN": 736,
+  "Val Accuracy (%)": 96.22
+}
